@@ -1,0 +1,5 @@
+Thank you {insert group name} for your incoming liaison {insert title}.  The IETF community has not reached consensus on a response to the liaison.  This lack of consensus does not indicate agreement to or concurrence with any outcome; nor does it indicate that the IETF will not gain consensus on some aspect of it in the future.
+
+The IETF is a contribution driven organization, with a formal process described in [Internet Standards Process](https://www.ietf.org/process/process) (1). IETF positions require community rough consensus with input from Working Groups via the process managed by the Internet Engineering Steering Group (IESG). Without going through the IETF's defined process to gather consensus, the IETF has no official position on any topic, including Liaison Statements.
+
+(1) Internet Standards Process https://www.ietf.org/process/process
