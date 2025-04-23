@@ -1,4 +1,4 @@
-Thank you {insert group name} for your incoming liaison statement {insert title}.  The appropriate part(s) of the IRTF community have been made aware of your message and logged the liaison in the IETF's Liaison Database {insert link}.
+Thank you {insert group name} for your incoming liaison statement {insert title}.  The appropriate part(s) of the IRTF community have been made aware of your message and the liaison statement has been logged in the IETF's Liaison Database {insert link}.
 
 The IRTF is a contribution driven research-oriented organization, with guidelines and procedures described in [IRTF Policies and Procedures](https://www.irtf.org/policies) (1).  Each IRTF Research Group is permitted to agree on working methods that fit the needs of the Research Group.  However, without going through the IETF's defined process to gather consensus (2), the IRTF has no official position on any topic, including Liaison Statements.
 
